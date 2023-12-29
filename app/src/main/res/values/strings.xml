@@ -12,4 +12,13 @@
     <string name="menu_slideshow">Slideshow</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forget">Forgot Password?</string>
+    <string name="new_user">New User?</string>
+    <string name="register">Register Here</string>
+    <string name="pam_register">Register</string>
+    <string name="ready_account">Already Have Account?</string>
 </resources>
