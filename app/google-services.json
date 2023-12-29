@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573658655995",
+    "project_id": "tugas-5-42c32",
+    "storage_bucket": "tugas-5-42c32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573658655995:android:cd81aea33557a3eee2945e",
+        "android_client_info": {
+          "package_name": "com.example.tugas5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJsz-9P5y4pDZf34HXzho-jCeX3WQ-3dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
